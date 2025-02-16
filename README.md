@@ -12,7 +12,7 @@ The second program (email.html) is basic email and password. If successful will 
 
 #Third Program
 The third program is about API which fetches the weather. I have used an app called openweathermap which gave me one API ID. There was 3 free fetches so i have fetched 3.
-The first one if Kolkata second New Delhi third is Mumbai.
+The first one is Kolkata second New Delhi third is Mumbai.
 If you write these three then the weather will come easily.
 
  Thank you for reading >:).
